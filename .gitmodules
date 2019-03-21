@@ -1,0 +1,3 @@
+[submodule "themes/hugo-gougougogo"]
+	path = themes/hugo-gougougogo
+	url = git@github.com:XiKun-TW/hugo-gougougogo.git
